@@ -2,10 +2,23 @@ package ru.verngrov.winelifestyleapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Акцент
+val Accent = Color(0xFF7A2D1A)
+val AccentLight = Color(0xFFF5EDE6)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Текст
+val TextPrimary = Color(0xFF2C1A10)
+val TextSecondary = Color(0xFF9B8B7A)
+val TextTertiary = Color(0xFFC9B89A)
+
+// Фон
+val BackgroundScreen = Color(0xFFFAF8F5)
+val BackgroundSurface = Color(0xFFF0EAE2)
+val BackgroundCard = Color(0xFFFFFFFF)
+
+// Граница
+val Border = Color(0xFFE0D8D0)
+
+// Тёмные элементы
+val DarkBrown = Color(0xFF2C1A10)
+val DarkBrownDeep = Color(0xFF3D2415)
